@@ -1,0 +1,317 @@
+Script started on 2020-10-05 04:12:44+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="156" LINES="24"]
+]0;pi@raspberrypi: ~/testODM/ODM/NodeODM2/nodeodm[01;32mpi@raspberrypi[00m:[01;34m~/testODM/ODM/NodeODM2/nodeodm $[00m sudo node[K[K[K[K[K[K[K[K[Knode index.js 
+info: Authentication using NoTokenRequired
+info: Listening on 0.0.0.0:6367 UDP for progress updates
+info: Initialized 0 tasks
+info: Checking for orphaned directories to be removed...
+info: Server has started on port 3000
+&& In Auth Check  /info  Mon Oct 05 2020 04:13:01 GMT+0100 (BST) and Milliseconds: 998
+[2020-10-05T03:13:02.060Z] HTTP/Method: GET URL: /info Status: 200 - 182 bytes - 64.465 ms
+&& In Auth Check  /options  Mon Oct 05 2020 04:13:16 GMT+0100 (BST) and Milliseconds: 619
+[2020-10-05T03:13:16.627Z] HTTP/Method: GET URL: /options Status: 200 - 17240 bytes - 5.386 ms
+&& In Auth Check  /info  Mon Oct 05 2020 04:13:16 GMT+0100 (BST) and Milliseconds: 959
+[2020-10-05T03:13:17.023Z] HTTP/Method: GET URL: /info Status: 200 - 182 bytes - 63.162 ms
+&& In Auth Check  /options  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 32
+[2020-10-05T03:13:17.037Z] HTTP/Method: GET URL: /options Status: 200 - 17240 bytes - 3.617 ms
+&& In Auth Check  /task/new/init?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 54
+Current Time in handle initialization in taskNew.js,  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 83
+Request Body in handle init in taskNew.js [{"name":"orthophoto-resolution","value":30},{"name":"orthophoto-cutline","value":true},{"name":"dem-euclidean-map","value":true},{"name":"skip-3dmodel","value":true}]
+[2020-10-05T03:13:17.091Z] HTTP/Method: POST URL: /task/new/init?token= Status: 200 - 47 bytes - 36.725 ms
+&& In Auth Check  /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 106
+&& In Auth Check  /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 118
+&& In Auth Check  /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 119
+&& In Auth Check  /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 120
+&& In Auth Check  /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 121
+&& In Auth Check  /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 122
+&& In Auth Check  /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 123
+&& In Auth Check  /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 124
+&& In Auth Check  /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 125
+&& In Auth Check  /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 126
+&& In Auth Check  /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 127
+&& In Auth Check  /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 128
+&& In Auth Check  /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 129
+About to Upload the File DJI_0021.JPG at Path tmp/bf0e03da-07af-4d1a-af33-316f41e995ab,  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 135
+About to Upload the File DJI_0022.JPG at Path tmp/bf0e03da-07af-4d1a-af33-316f41e995ab,  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 174
+About to Upload the File DJI_0023.JPG at Path tmp/bf0e03da-07af-4d1a-af33-316f41e995ab,  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 174
+About to Upload the File DJI_0024.JPG at Path tmp/bf0e03da-07af-4d1a-af33-316f41e995ab,  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 175
+About to Upload the File DJI_0025.JPG at Path tmp/bf0e03da-07af-4d1a-af33-316f41e995ab,  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 175
+About to Upload the File DJI_0027.JPG at Path tmp/bf0e03da-07af-4d1a-af33-316f41e995ab,  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 175
+About to Upload the File DJI_0026.JPG at Path tmp/bf0e03da-07af-4d1a-af33-316f41e995ab,  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 175
+About to Upload the File DJI_0031.JPG at Path tmp/bf0e03da-07af-4d1a-af33-316f41e995ab,  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 175
+About to Upload the File DJI_0032.JPG at Path tmp/bf0e03da-07af-4d1a-af33-316f41e995ab,  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 176
+About to Upload the File DJI_0033.JPG at Path tmp/bf0e03da-07af-4d1a-af33-316f41e995ab,  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 176
+About to Upload the File DJI_0034.JPG at Path tmp/bf0e03da-07af-4d1a-af33-316f41e995ab,  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 176
+About to Upload the File DJI_0035.JPG at Path tmp/bf0e03da-07af-4d1a-af33-316f41e995ab,  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 176
+About to Upload the File seed.zip at Path tmp/bf0e03da-07af-4d1a-af33-316f41e995ab,  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 176
+[2020-10-05T03:13:17.193Z] HTTP/Method: POST URL: /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token= Status: 200 - 16 bytes - 87.296 ms
+[2020-10-05T03:13:17.194Z] HTTP/Method: POST URL: /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token= Status: 200 - 16 bytes - 63.699 ms
+[2020-10-05T03:13:17.200Z] HTTP/Method: POST URL: /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token= Status: 200 - 16 bytes - 78.080 ms
+[2020-10-05T03:13:17.201Z] HTTP/Method: POST URL: /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token= Status: 200 - 16 bytes - 77.469 ms
+[2020-10-05T03:13:17.201Z] HTTP/Method: POST URL: /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token= Status: 200 - 16 bytes - 76.838 ms
+[2020-10-05T03:13:17.201Z] HTTP/Method: POST URL: /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token= Status: 200 - 16 bytes - 76.233 ms
+[2020-10-05T03:13:17.201Z] HTTP/Method: POST URL: /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token= Status: 200 - 16 bytes - 74.549 ms
+[2020-10-05T03:13:17.201Z] HTTP/Method: POST URL: /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token= Status: 200 - 16 bytes - 76.046 ms
+[2020-10-05T03:13:17.201Z] HTTP/Method: POST URL: /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token= Status: 200 - 16 bytes - 74.382 ms
+[2020-10-05T03:13:17.202Z] HTTP/Method: POST URL: /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token= Status: 200 - 16 bytes - 73.768 ms
+[2020-10-05T03:13:17.202Z] HTTP/Method: POST URL: /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token= Status: 200 - 16 bytes - 73.101 ms
+[2020-10-05T03:13:17.202Z] HTTP/Method: POST URL: /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token= Status: 200 - 16 bytes - 72.469 ms
+[2020-10-05T03:13:17.202Z] HTTP/Method: POST URL: /task/new/upload/bf0e03da-07af-4d1a-af33-316f41e995ab?token= Status: 200 - 16 bytes - 71.857 ms
+&& In Auth Check  /task/new/commit/bf0e03da-07af-4d1a-af33-316f41e995ab?token=  Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 204
+Created Task in TaskNew.js Mon Oct 05 2020 04:13:17 GMT+0100 (BST)  and Milliseconds: 349
+info: About to run in odm Runner.js: /home/pi/testODM/ODM/run.sh --orthophoto-resolution 30 --orthophoto-cutline --dem-euclidean-map --skip-3dmodel --project-path /home/pi/testODM/ODM/NodeODM2/nodeodm/data bf0e03da-07af-4d1a-af33-316f41e995ab
+Going to Run command in odm Runner.js Mon Oct 05 2020 04:13:17 GMT+0100 (BST) and Milliseconds: 356
+[2020-10-05T03:13:17.367Z] HTTP/Method: POST URL: /task/new/commit/bf0e03da-07af-4d1a-af33-316f41e995ab?token= Status: 200 - 47 bytes - 161.870 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:13:20 GMT+0100 (BST) and Milliseconds: 80
+[2020-10-05T03:13:20.082Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 368 bytes - 1.978 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:13:23 GMT+0100 (BST) and Milliseconds: 100
+[2020-10-05T03:13:23.103Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 370 bytes - 1.907 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:13:26 GMT+0100 (BST) and Milliseconds: 120
+[2020-10-05T03:13:26.122Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 370 bytes - 1.530 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:13:29 GMT+0100 (BST) and Milliseconds: 139
+[2020-10-05T03:13:29.142Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 371 bytes - 1.666 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:13:32 GMT+0100 (BST) and Milliseconds: 157
+[2020-10-05T03:13:32.160Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 371 bytes - 1.472 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:13:35 GMT+0100 (BST) and Milliseconds: 172
+[2020-10-05T03:13:35.174Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 371 bytes - 1.071 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:13:38 GMT+0100 (BST) and Milliseconds: 187
+[2020-10-05T03:13:38.188Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 371 bytes - 0.742 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:13:41 GMT+0100 (BST) and Milliseconds: 203
+[2020-10-05T03:13:41.205Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 371 bytes - 1.258 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:13:44 GMT+0100 (BST) and Milliseconds: 222
+[2020-10-05T03:13:44.224Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 371 bytes - 1.545 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:13:47 GMT+0100 (BST) and Milliseconds: 238
+[2020-10-05T03:13:47.239Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 371 bytes - 0.758 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:13:50 GMT+0100 (BST) and Milliseconds: 255
+[2020-10-05T03:13:50.256Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 371 bytes - 0.759 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:13:53 GMT+0100 (BST) and Milliseconds: 281
+[2020-10-05T03:13:53.283Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 371 bytes - 1.174 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:13:56 GMT+0100 (BST) and Milliseconds: 301
+[2020-10-05T03:13:56.302Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 371 bytes - 0.699 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:13:59 GMT+0100 (BST) and Milliseconds: 319
+[2020-10-05T03:13:59.320Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 372 bytes - 0.711 ms
+&& In Auth Check  /info  Mon Oct 05 2020 04:14:01 GMT+0100 (BST) and Milliseconds: 936
+[2020-10-05T03:14:01.968Z] HTTP/Method: GET URL: /info Status: 200 - 182 bytes - 30.943 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:14:02 GMT+0100 (BST) and Milliseconds: 336
+[2020-10-05T03:14:02.338Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 372 bytes - 1.237 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:14:05 GMT+0100 (BST) and Milliseconds: 355
+[2020-10-05T03:14:05.356Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 372 bytes - 0.753 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:14:08 GMT+0100 (BST) and Milliseconds: 370
+[2020-10-05T03:14:08.371Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 372 bytes - 0.707 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:14:11 GMT+0100 (BST) and Milliseconds: 391
+[2020-10-05T03:14:11.392Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 372 bytes - 0.695 ms
+Task.js paths to archive to send back to original Node
+[ 'opensfm/matches',
+  'opensfm/features',
+  'opensfm/reconstruction.json',
+  'opensfm/tracks.csv',
+  'cameras.json' ]
+info: About to run in processRunner.js: 7z a -mx=0 -r -bd /home/pi/testODM/ODM/NodeODM2/nodeodm/data/bf0e03da-07af-4d1a-af33-316f41e995ab/all.zip opensfm/matches opensfm/features opensfm/reconstruction.json opensfm/tracks.csv cameras.json
+Current Time is now Mon Oct 05 2020 04:14:14 GMT+0100 (BST) and Milliseconds:320
+before sevenzip
+FILE SIZE ZIP FILE 
+/home/pi/testODM/ODM/NodeODM2/nodeodm/data/bf0e03da-07af-4d1a-af33-316f41e995ab/all.zip
+6196502
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:14:14 GMT+0100 (BST) and Milliseconds: 414
+[2020-10-05T03:14:14.415Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 371 bytes - 0.767 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info  Mon Oct 05 2020 04:14:14 GMT+0100 (BST) and Milliseconds: 436
+[2020-10-05T03:14:14.437Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/info Status: 200 - 371 bytes - 0.656 ms
+&& In Auth Check  /task/bf0e03da-07af-4d1a-af33-316f41e995ab/download/all.zip  Mon Oct 05 2020 04:14:14 GMT+0100 (BST) and Milliseconds: 459
+Filestream pipe has ran to Download Dataset Mon Oct 05 2020 04:14:14 GMT+0100 (BST) and Milliseconds: 461
+[2020-10-05T03:14:14.569Z] HTTP/Method: GET URL: /task/bf0e03da-07af-4d1a-af33-316f41e995ab/download/all.zip Status: 200 - 6196502 bytes - 2.819 ms
+&& In Auth Check  /task/remove  Mon Oct 05 2020 04:14:14 GMT+0100 (BST) and Milliseconds: 796
+cleanup in task js 
+[2020-10-05T03:14:14.881Z] HTTP/Method: POST URL: /task/remove Status: 200 - 16 bytes - 142.063 ms
+&& In Auth Check  /options  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 314
+[2020-10-05T03:14:17.317Z] HTTP/Method: GET URL: /options Status: 200 - 17240 bytes - 2.618 ms
+&& In Auth Check  /info  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 565
+[2020-10-05T03:14:17.644Z] HTTP/Method: GET URL: /info Status: 200 - 182 bytes - 78.453 ms
+&& In Auth Check  /options  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 649
+[2020-10-05T03:14:17.650Z] HTTP/Method: GET URL: /options Status: 200 - 17240 bytes - 1.188 ms
+&& In Auth Check  /task/new/init?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 667
+Current Time in handle initialization in taskNew.js,  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 674
+Request Body in handle init in taskNew.js [{"name":"orthophoto-resolution","value":30},{"name":"orthophoto-cutline","value":true},{"name":"dem-euclidean-map","value":true},{"name":"skip-3dmodel","value":true}]
+[2020-10-05T03:14:17.677Z] HTTP/Method: POST URL: /task/new/init?token= Status: 200 - 47 bytes - 9.253 ms
+&& In Auth Check  /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 688
+&& In Auth Check  /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 699
+&& In Auth Check  /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 701
+&& In Auth Check  /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 703
+&& In Auth Check  /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 705
+&& In Auth Check  /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 706
+&& In Auth Check  /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 709
+&& In Auth Check  /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 710
+&& In Auth Check  /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 712
+&& In Auth Check  /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 714
+&& In Auth Check  /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 715
+&& In Auth Check  /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 717
+&& In Auth Check  /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 719
+About to Upload the File DJI_0021.JPG at Path tmp/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1,  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 729
+About to Upload the File DJI_0022.JPG at Path tmp/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1,  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 766
+About to Upload the File DJI_0023.JPG at Path tmp/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1,  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 767
+About to Upload the File DJI_0024.JPG at Path tmp/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1,  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 767
+About to Upload the File DJI_0025.JPG at Path tmp/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1,  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 768
+About to Upload the File DJI_0026.JPG at Path tmp/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1,  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 768
+About to Upload the File DJI_0027.JPG at Path tmp/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1,  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 768
+About to Upload the File DJI_0031.JPG at Path tmp/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1,  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 768
+About to Upload the File DJI_0032.JPG at Path tmp/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1,  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 769
+About to Upload the File DJI_0033.JPG at Path tmp/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1,  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 769
+About to Upload the File DJI_0034.JPG at Path tmp/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1,  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 769
+About to Upload the File DJI_0035.JPG at Path tmp/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1,  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 770
+About to Upload the File seed.zip at Path tmp/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1,  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 770
+[2020-10-05T03:14:17.786Z] HTTP/Method: POST URL: /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token= Status: 200 - 16 bytes - 98.207 ms
+[2020-10-05T03:14:17.795Z] HTTP/Method: POST URL: /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token= Status: 200 - 16 bytes - 89.851 ms
+[2020-10-05T03:14:17.795Z] HTTP/Method: POST URL: /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token= Status: 200 - 16 bytes - 88.763 ms
+[2020-10-05T03:14:17.795Z] HTTP/Method: POST URL: /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token= Status: 200 - 16 bytes - 87.406 ms
+[2020-10-05T03:14:17.796Z] HTTP/Method: POST URL: /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token= Status: 200 - 16 bytes - 86.216 ms
+[2020-10-05T03:14:17.796Z] HTTP/Method: POST URL: /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token= Status: 200 - 16 bytes - 84.963 ms
+[2020-10-05T03:14:17.796Z] HTTP/Method: POST URL: /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token= Status: 200 - 16 bytes - 84.144 ms
+[2020-10-05T03:14:17.796Z] HTTP/Method: POST URL: /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token= Status: 200 - 16 bytes - 82.937 ms
+[2020-10-05T03:14:17.796Z] HTTP/Method: POST URL: /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token= Status: 200 - 16 bytes - 81.650 ms
+[2020-10-05T03:14:17.796Z] HTTP/Method: POST URL: /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token= Status: 200 - 16 bytes - 80.352 ms
+[2020-10-05T03:14:17.797Z] HTTP/Method: POST URL: /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token= Status: 200 - 16 bytes - 79.110 ms
+[2020-10-05T03:14:17.797Z] HTTP/Method: POST URL: /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token= Status: 200 - 16 bytes - 77.896 ms
+[2020-10-05T03:14:17.799Z] HTTP/Method: POST URL: /task/new/upload/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token= Status: 200 - 16 bytes - 79.734 ms
+&& In Auth Check  /task/new/commit/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token=  Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 800
+Created Task in TaskNew.js Mon Oct 05 2020 04:14:17 GMT+0100 (BST)  and Milliseconds: 857
+info: About to run in odm Runner.js: /home/pi/testODM/ODM/run.sh --orthophoto-resolution 30 --orthophoto-cutline --dem-euclidean-map --skip-3dmodel --project-path /home/pi/testODM/ODM/NodeODM2/nodeodm/data 20812a5e-fcd2-46ab-9284-cf2ea26ef5e1
+Going to Run command in odm Runner.js Mon Oct 05 2020 04:14:17 GMT+0100 (BST) and Milliseconds: 859
+[2020-10-05T03:14:17.870Z] HTTP/Method: POST URL: /task/new/commit/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1?token= Status: 200 - 47 bytes - 68.626 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:14:20 GMT+0100 (BST) and Milliseconds: 704
+[2020-10-05T03:14:20.705Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 368 bytes - 0.907 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:14:23 GMT+0100 (BST) and Milliseconds: 721
+[2020-10-05T03:14:23.723Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 372 bytes - 1.256 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:14:26 GMT+0100 (BST) and Milliseconds: 739
+[2020-10-05T03:14:26.741Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 372 bytes - 1.203 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:14:29 GMT+0100 (BST) and Milliseconds: 756
+[2020-10-05T03:14:29.757Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 370 bytes - 1.053 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:14:32 GMT+0100 (BST) and Milliseconds: 772
+[2020-10-05T03:14:32.773Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.793 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:14:35 GMT+0100 (BST) and Milliseconds: 788
+[2020-10-05T03:14:35.789Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.691 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:14:38 GMT+0100 (BST) and Milliseconds: 801
+[2020-10-05T03:14:38.802Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.708 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:14:41 GMT+0100 (BST) and Milliseconds: 815
+[2020-10-05T03:14:41.816Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.701 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:14:44 GMT+0100 (BST) and Milliseconds: 829
+[2020-10-05T03:14:44.830Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.707 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:14:47 GMT+0100 (BST) and Milliseconds: 841
+[2020-10-05T03:14:47.842Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.695 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:14:50 GMT+0100 (BST) and Milliseconds: 855
+[2020-10-05T03:14:50.856Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.694 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:14:53 GMT+0100 (BST) and Milliseconds: 869
+[2020-10-05T03:14:53.870Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.683 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:14:56 GMT+0100 (BST) and Milliseconds: 881
+[2020-10-05T03:14:56.882Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.690 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:14:59 GMT+0100 (BST) and Milliseconds: 895
+[2020-10-05T03:14:59.896Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.682 ms
+&& In Auth Check  /info  Mon Oct 05 2020 04:15:01 GMT+0100 (BST) and Milliseconds: 939
+[2020-10-05T03:15:01.986Z] HTTP/Method: GET URL: /info Status: 200 - 182 bytes - 46.617 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:02 GMT+0100 (BST) and Milliseconds: 911
+[2020-10-05T03:15:02.912Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.779 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:05 GMT+0100 (BST) and Milliseconds: 925
+[2020-10-05T03:15:05.926Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.733 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:08 GMT+0100 (BST) and Milliseconds: 939
+[2020-10-05T03:15:08.940Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.701 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:11 GMT+0100 (BST) and Milliseconds: 951
+[2020-10-05T03:15:11.952Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.694 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:14 GMT+0100 (BST) and Milliseconds: 965
+[2020-10-05T03:15:14.966Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.681 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:17 GMT+0100 (BST) and Milliseconds: 980
+[2020-10-05T03:15:17.981Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.678 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:20 GMT+0100 (BST) and Milliseconds: 991
+[2020-10-05T03:15:20.992Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.708 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:24 GMT+0100 (BST) and Milliseconds: 5
+[2020-10-05T03:15:24.006Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.695 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:27 GMT+0100 (BST) and Milliseconds: 20
+[2020-10-05T03:15:27.021Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.692 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:30 GMT+0100 (BST) and Milliseconds: 34
+[2020-10-05T03:15:30.035Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.682 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:33 GMT+0100 (BST) and Milliseconds: 49
+[2020-10-05T03:15:33.050Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.697 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:36 GMT+0100 (BST) and Milliseconds: 63
+[2020-10-05T03:15:36.064Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.697 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:39 GMT+0100 (BST) and Milliseconds: 77
+[2020-10-05T03:15:39.078Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.693 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:42 GMT+0100 (BST) and Milliseconds: 92
+[2020-10-05T03:15:42.093Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.769 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:45 GMT+0100 (BST) and Milliseconds: 107
+[2020-10-05T03:15:45.111Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.736 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:48 GMT+0100 (BST) and Milliseconds: 125
+[2020-10-05T03:15:48.126Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.682 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:51 GMT+0100 (BST) and Milliseconds: 140
+[2020-10-05T03:15:51.141Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.698 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:54 GMT+0100 (BST) and Milliseconds: 158
+[2020-10-05T03:15:54.159Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.695 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:15:57 GMT+0100 (BST) and Milliseconds: 172
+[2020-10-05T03:15:57.173Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 370 bytes - 0.746 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:00 GMT+0100 (BST) and Milliseconds: 189
+[2020-10-05T03:16:00.190Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 371 bytes - 2.942 ms
+&& In Auth Check  /info  Mon Oct 05 2020 04:16:01 GMT+0100 (BST) and Milliseconds: 938
+[2020-10-05T03:16:01.968Z] HTTP/Method: GET URL: /info Status: 200 - 182 bytes - 29.442 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:03 GMT+0100 (BST) and Milliseconds: 201
+[2020-10-05T03:16:03.202Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 371 bytes - 0.733 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:06 GMT+0100 (BST) and Milliseconds: 215
+[2020-10-05T03:16:06.216Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 371 bytes - 0.656 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:09 GMT+0100 (BST) and Milliseconds: 228
+[2020-10-05T03:16:09.229Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 371 bytes - 0.682 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:12 GMT+0100 (BST) and Milliseconds: 242
+[2020-10-05T03:16:12.243Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.653 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:15 GMT+0100 (BST) and Milliseconds: 264
+[2020-10-05T03:16:15.265Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 373 bytes - 0.899 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:18 GMT+0100 (BST) and Milliseconds: 280
+[2020-10-05T03:16:18.281Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 371 bytes - 0.783 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:21 GMT+0100 (BST) and Milliseconds: 294
+[2020-10-05T03:16:21.295Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 371 bytes - 0.686 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:24 GMT+0100 (BST) and Milliseconds: 310
+[2020-10-05T03:16:24.311Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 371 bytes - 0.744 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:27 GMT+0100 (BST) and Milliseconds: 326
+[2020-10-05T03:16:27.327Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 371 bytes - 0.783 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:30 GMT+0100 (BST) and Milliseconds: 341
+[2020-10-05T03:16:30.342Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 371 bytes - 0.781 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:33 GMT+0100 (BST) and Milliseconds: 356
+[2020-10-05T03:16:33.358Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 371 bytes - 0.934 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:36 GMT+0100 (BST) and Milliseconds: 371
+[2020-10-05T03:16:36.372Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 371 bytes - 0.746 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:39 GMT+0100 (BST) and Milliseconds: 386
+[2020-10-05T03:16:39.387Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 371 bytes - 0.693 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:42 GMT+0100 (BST) and Milliseconds: 400
+[2020-10-05T03:16:42.401Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 371 bytes - 0.940 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:45 GMT+0100 (BST) and Milliseconds: 415
+[2020-10-05T03:16:45.416Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 371 bytes - 0.928 ms
+Task.js paths to archive to send back to original Node
+[ 'odm_orthophoto/odm_orthophoto.tif',
+  'odm_orthophoto/cutline.gpkg',
+  'odm_orthophoto/odm_orthophoto_cut.tif',
+  'odm_orthophoto/odm_orthophoto_feathered.tif',
+  'odm_dem',
+  'odm_meshing',
+  'odm_texturing_25d',
+  'odm_filterpoints',
+  'mve',
+  'odm_report',
+  'odm_georeferencing',
+  'odm_georeferencing_25d',
+  'mve' ]
+info: About to run in processRunner.js: 7z a -mx=0 -r -bd /home/pi/testODM/ODM/NodeODM2/nodeodm/data/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/all.zip odm_orthophoto/odm_orthophoto.tif odm_orthophoto/cutline.gpkg odm_orthophoto/odm_orthophoto_cut.tif odm_orthophoto/odm_orthophoto_feathered.tif odm_dem odm_meshing odm_texturing_25d odm_filterpoints mve odm_report odm_georeferencing odm_georeferencing_25d mve
+Current Time is now Mon Oct 05 2020 04:16:47 GMT+0100 (BST) and Milliseconds:647
+before sevenzip
+FILE SIZE ZIP FILE 
+/home/pi/testODM/ODM/NodeODM2/nodeodm/data/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/all.zip
+28289977
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:48 GMT+0100 (BST) and Milliseconds: 430
+[2020-10-05T03:16:48.432Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 372 bytes - 1.100 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info  Mon Oct 05 2020 04:16:48 GMT+0100 (BST) and Milliseconds: 444
+[2020-10-05T03:16:48.445Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/info Status: 200 - 372 bytes - 0.865 ms
+&& In Auth Check  /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/download/all.zip  Mon Oct 05 2020 04:16:48 GMT+0100 (BST) and Milliseconds: 459
+Filestream pipe has ran to Download Dataset Mon Oct 05 2020 04:16:48 GMT+0100 (BST) and Milliseconds: 460
+[2020-10-05T03:16:49.219Z] HTTP/Method: GET URL: /task/20812a5e-fcd2-46ab-9284-cf2ea26ef5e1/download/all.zip Status: 200 - 28289977 bytes - 2.717 ms
+&& In Auth Check  /task/remove  Mon Oct 05 2020 04:16:50 GMT+0100 (BST) and Milliseconds: 42
+cleanup in task js 
+[2020-10-05T03:16:50.253Z] HTTP/Method: POST URL: /task/remove Status: 200 - 16 bytes - 212.092 ms
+&& In Auth Check  /info  Mon Oct 05 2020 04:17:01 GMT+0100 (BST) and Milliseconds: 958
+[2020-10-05T03:17:02.032Z] HTTP/Method: GET URL: /info Status: 200 - 182 bytes - 71.374 ms
+^Cinfo: Closing server
+info: Exiting...
+]0;pi@raspberrypi: ~/testODM/ODM/NodeODM2/nodeodm[01;32mpi@raspberrypi[00m:[01;34m~/testODM/ODM/NodeODM2/nodeodm $[00m exit
+exit
+
+Script done on 2020-10-05 04:17:06+01:00 [COMMAND_EXIT_CODE="0"]
